@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="bhj" size="6.000000 7.331558" />
+    <ImageTarget name="hezar-min" size="4.000000 6.630964" />
+    <ImageTarget name="mirror_hall-min" size="10.000000 6.912772" />
+    <ImageTarget name="angel-min" size="10.000000 13.971312" />
+    <ImageTarget name="samaa-min" size="10.000000 14.930000" />
+    <ImageTarget name="vessel-min" size="10.000000 7.604167" />
+  </Tracking>
+</QCARConfig>

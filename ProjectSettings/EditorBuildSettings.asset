@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/ARPROJ/ARPROJ.unity
+    guid: 96f0b9f7e8822d1429b5fd9cc3359b51
+  - enabled: 1
+    path: Assets/withoutGround.unity
+    guid: 722b299bb85d8824fb5015ed24f6c407
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 029eef655082d8a4e833b84e088e6650, type: 2}
