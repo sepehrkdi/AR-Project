@@ -153,9 +153,9 @@ public class AutoCharacterPlacer : MonoBehaviour
     {
         switch (imageTargetName)
         {
-            case "bhj":       return "Mona Lisa — Leonardo da Vinci.";
-            case "vessel":    return "Starry Night — Vincent van Gogh.";
-            case "TheScream": return "The Scream — Edvard Munch.";
+            case "bhj":       return "Mona Lisa - Leonardo da Vinci.";
+            case "vessel":    return "Starry Night - Vincent van Gogh.";
+            case "TheScream": return "The Scream - Edvard Munch.";
             default:          return "Artwork description unavailable.";
         }
     }
@@ -297,4 +297,4 @@ foreach (var h in hits)
 }
 ```
 
-Prefer the **GroundPlaneStage Y** approach used in this repo—it’s simpler and more robust.
+Prefer the **GroundPlaneStage Y** approach used in this repo-it’s simpler and more robust.
